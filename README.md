@@ -1,6 +1,6 @@
 # Sample python script to list chats for the signed-in user
 
-This sample is best executed in the cloud shell ((https://shell.azure.com/)[https://shell.azure.com/]),
+This sample is best executed in the cloud shell ([https://shell.azure.com/]([https://shell.azure.com/])),
 because all dependencies are already pre-installed.
 
 You need to update the sample_parameters dictionary with the values of your AAD tenant:
